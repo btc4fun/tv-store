@@ -1,0 +1,34 @@
+{
+  "formato": 1,
+  "nome": "Store di Home TV",
+  "app": [
+    {
+      "id": "orologio",
+      "nome": "Orologio",
+      "descrizione": "L'ora grande e la data, leggibili dal divano. OK per mostrare o nascondere i secondi.",
+      "icona": "../tv-app-orologio/icona.png",
+      "copertina": "../tv-app-orologio/copertina.png",
+      "versione": "1.0.0",
+      "novita": "La prima versione.",
+      "categoria": "strumenti",
+      "url": "../tv-app-orologio/",
+      "autore": "Home TV"
+    },
+    {
+      "id": "video",
+      "nome": "Video",
+      "descrizione": "I film e le serie delle chiavette e dei dischi USB attaccati al TV, anche 4K HDR. Sceglie da sola l'audio che il TV legge, disegna i sottotitoli (anche quelli dei Blu-ray) e riprende da dove eri.",
+      "icona": "../tv-app-video/icona.png",
+      "copertina": "../tv-app-video/copertina.png",
+      "versione": "1.0.0",
+      "novita": "La prima versione.",
+      "categoria": "film",
+      "url": "../tv-app-video/",
+      "autore": "Home TV",
+      "permessi": [
+        "video"
+      ],
+      "evidenza": true
+    }
+  ]
+}
