@@ -28,6 +28,9 @@
       "permessi": [
         "video"
       ],
+      "richiede": {
+        "video": 1
+      },
       "evidenza": true
     }
   ]
