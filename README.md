@@ -5,6 +5,6 @@ Il catalogo delle app di Home TV: la home lo legge da `/tv-store/catalogo.json` 
 | App | Versione | Repository |
 | --- | --- | --- |
 | Orologio | 1.0.0 | `tv-app-orologio` |
-| Real4K | 1.1.5 | `tv-app-video` |
+| Real4K | 1.1.6 | `tv-app-video` |
 
 Lo rifà `python3 docs/consegna/prepara-store.py` (non modificare a mano: le app stanno in `store/`).
