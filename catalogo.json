@@ -20,8 +20,8 @@
       "descrizione": "I tuoi film e le serie in 4K HDR, dal Jellyfin del Mac o dalle chiavette e dai dischi USB attaccati al TV. Sceglie da sola l'audio che il TV legge, disegna i sottotitoli (anche quelli dei Blu-ray) e riprende da dove eri.",
       "icona": "../tv-app-video/icona.png",
       "copertina": "../tv-app-video/copertina.png",
-      "versione": "1.1.11",
-      "novita": "Se il Mac cambia indirizzo nella rete di casa, Real4K lo ritrova da sola e controlla che sia proprio il tuo Mac. Dice cosa sta facendo invece di «il Mac non risponde».",
+      "versione": "1.1.12",
+      "novita": "Meno fermate: il film dal Mac tiene più scorta e dopo un salto riparte in pochi secondi. Audio e video sempre allineati, anche col Dolby.",
       "categoria": "film",
       "url": "../tv-app-video/",
       "autore": "Home TV",
@@ -32,6 +32,22 @@
         "video": 1
       },
       "evidenza": true
+    },
+    {
+      "id": "disneyplus",
+      "nome": "Disney+",
+      "descrizione": "Film e serie di Disney, Pixar, Marvel, Star Wars e National Geographic, a tutto schermo come sul TV: si usa con le frecce del telecomando e col telefono. Serve un abbonamento a Disney+.",
+      "icona": "../tv-app-disneyplus/icona.png",
+      "copertina": "../tv-app-disneyplus/copertina.png",
+      "versione": "1.0.0",
+      "novita": "La prima versione: Disney+ a tutto schermo dalla home.",
+      "categoria": "film",
+      "url": "../tv-app-disneyplus/",
+      "sito": "https://www.disneyplus.com/it-it",
+      "requisiti": [
+        "es6"
+      ],
+      "autore": "Home TV"
     }
   ]
 }
